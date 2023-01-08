@@ -1,0 +1,16 @@
+.top-header{
+    height: 30vh;
+    width: 100%;
+    align-items: center;
+    
+} 
+ .icon{
+    font-size: 35px;
+    color: orange;
+    padding-right: 10px;
+ }
+.social-icon{
+    font-size: 30px;
+}
+   
+    
